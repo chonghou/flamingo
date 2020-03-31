@@ -8,6 +8,9 @@ flamingoAndroid/.idea
 *.sdf
 iKutil.log
 
+flamingoclient/.vs/
+flamingoserver/build/
+
 # Compiled Object files
 *.slo
 *.lo
